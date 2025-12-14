@@ -36,14 +36,6 @@
 
 > 个人图库项目（壁纸、头像）。含云对象存储、冷热分离、AI 搜索、AI 绘图。智能协同编辑功能（仿 Google），提供完整的图片管理和分享功能。
 
-#### community ⭐⭐⭐
-
-> 论坛项目。前后端不分离架构，使用 Kafka 进行异步解耦点赞、关注、评论等操作，提升系统性能和用户体验。
-
-#### s-pay-small-ddd ⭐⭐⭐
-
-> DDD 架构的小型支付商城。采用领域驱动设计，实现支付、订单、商品管理等核心业务功能，展示 DDD 在电商场景中的应用。
-
 ### Wait for you
 
 _**I love to make friends.** so if you want to say **hi, I'll be happy to meet you more!** 😊_
@@ -65,6 +57,20 @@ _**I love to make friends.** so if you want to say **hi, I'll be happy to meet y
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fw-coder-tl&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=fw-coder-tl&theme=radical)
+
+### 📈 Contribution Graph
+
+<!-- GitHub 贡献活动图 - 显示提交活动趋势（类似图片中的效果） -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fw-coder-tl&theme=github-compact&hide_border=true&area=true&height=300&width=1000)
+
+<!-- GitHub 贡献网格动画（Snake效果）- 需要设置 GitHub Actions 后启用 -->
+<!-- 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fw-coder-tl/fw-coder-tl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fw-coder-tl/fw-coder-tl/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fw-coder-tl/fw-coder-tl/output/github-contribution-grid-snake.svg">
+</picture>
+-->
 
 ---
 
