@@ -50,13 +50,6 @@ _**I love to make friends.** so if you want to say **hi, I'll be happy to meet y
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fw-coder-tl&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fw-coder-tl&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=fw-coder-tl&theme=radical)
 
 ### 📈 Contribution Graph
 
