@@ -48,20 +48,6 @@ _**I love to make friends.** so if you want to say **hi, I'll be happy to meet y
 
 [![GitHub](https://img.shields.io/badge/GitHub-fw--coder--tl-181717?style=flat-square&logo=github)](https://github.com/fw-coder-tl)
 
----
-
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fw-coder-tl&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=24292e&icon_color=24292e&text_color=24292e&count_private=true&include_all_commits=true)
-
-**📧 Email:** liang.tian979@gmail.com  
-**📦 Public Repositories:** [View on GitHub](https://github.com/fw-coder-tl?tab=repositories)
-
-</div>
----
 
 ⭐ 如果我的项目对你有帮助，欢迎 Star 支持一下！
 
