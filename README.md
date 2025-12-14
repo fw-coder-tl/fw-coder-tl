@@ -57,13 +57,11 @@ _**I love to make friends.** so if you want to say **hi, I'll be happy to meet y
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fw-coder-tl&theme=github-compact&hide_border=true&area=true&height=300&width=1000)
 
 <!-- GitHub 贡献网格动画（Snake效果）- 需要设置 GitHub Actions 后启用 -->
-<!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fw-coder-tl/fw-coder-tl/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fw-coder-tl/fw-coder-tl/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fw-coder-tl/fw-coder-tl/output/github-contribution-grid-snake.svg">
 </picture>
--->
 
 ---
 
