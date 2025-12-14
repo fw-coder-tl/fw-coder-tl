@@ -10,7 +10,7 @@
 * **Languages :** Java, Spring Boot, Spring Cloud, MySQL, Redis, Kafka, Docker
 * **Hobbies :** Coding 💻 & Technology Research 📚
 * **Fact :** First solve the problem, then write the code ❤️
-* **Contact me :** GitHub: [@fw-coder-tl](https://github.com/fw-coder-tl)
+* **Contact me :** GitHub: [@fw-coder-tl](https://github.com/fw-coder-tl) | Email: liang.tian979@gmail.com
 
 ### 📌 Recent Updates
 
@@ -55,25 +55,12 @@ _**I love to make friends.** so if you want to say **hi, I'll be happy to meet y
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fw-coder-tl&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fw-coder-tl&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=24292e&icon_color=24292e&text_color=24292e&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fw-coder-tl&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-<!-- GitHub 贡献活动图 - 显示提交活动趋势 -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fw-coder-tl&theme=github-compact&hide_border=true&area=true&height=180&width=700)
-
-<!-- GitHub 贡献网格动画（Snake效果）- 设置 GitHub Actions 后自动生成 -->
-![Snake animation](https://raw.githubusercontent.com/fw-coder-tl/fw-coder-tl/output/github-contribution-grid-snake.svg)
+**📧 Email:** liang.tian979@gmail.com  
+**📦 Public Repositories:** [View on GitHub](https://github.com/fw-coder-tl?tab=repositories)
 
 </div>
-
-
 ---
 
 ⭐ 如果我的项目对你有帮助，欢迎 Star 支持一下！
