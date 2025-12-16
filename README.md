@@ -10,7 +10,7 @@
 * **Languages :** Java, Spring Boot, Spring Cloud, MySQL, Redis, Kafka, Docker
 * **Hobbies :** Coding 💻 & Technology Research 📚
 * **Fact :** First solve the problem, then write the code ❤️
-* **Contact me :** GitHub: [@fw-coder-tl](https://github.com/fw-coder-tl) | Email: liang.tian979@gmail.com
+* **Contact me :** GitHub: [@fw-coder-tl](https://github.com/fw-coder-tl) | Email: liangtian979@gmail.com
 
 ### 📌 Recent Updates
 
