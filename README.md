@@ -20,6 +20,8 @@ Java engineer focused on RAG, agents, agent loops, harnesses, and production-rea
 
 > First solve the problem, then write the code.
 
+Building tiny worlds with Codex and Claude, where tokens become atoms and agents learn to loop.
+
 ## AI Stack & Tools
 
 <p align="center">
