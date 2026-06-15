@@ -20,15 +20,21 @@ Java engineer focused on RAG, agents, agent loops, harnesses, and production-rea
 
 > First solve the problem, then write the code.
 
-## AI Stack
+## AI Stack & Tools
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge" alt="RAG" />
   <img src="https://img.shields.io/badge/Agent-22C55E?style=for-the-badge" alt="Agent" />
   <img src="https://img.shields.io/badge/Agent_Loop-14B8A6?style=for-the-badge" alt="Agent Loop" />
   <img src="https://img.shields.io/badge/Harness-6366F1?style=for-the-badge" alt="Harness" />
   <img src="https://img.shields.io/badge/LLM_Apps-111827?style=for-the-badge" alt="LLM Apps" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
 </p>
 
 <div align="center">
