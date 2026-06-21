@@ -51,9 +51,3 @@
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fw-coder-tl&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
-
-</div>
